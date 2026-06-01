@@ -25,7 +25,7 @@ Cubre los fundamentos y buenas prácticas del testing automatizado aplicadas a s
 ## 🗂️ Estructura del proyecto
 
 ```
-selenium-java-automation-framework/
+web-automation-framework-selenium-java/
 ├── pom.xml
 └── src/
     └── test/
@@ -66,8 +66,8 @@ selenium-java-automation-framework/
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/JoshuaSMC/selenium-java-automation-framework.git
-cd selenium-java-automation-framework
+git clone https://github.com/JoshuaSMC/web-automation-framework-selenium-java.git
+cd web-automation-framework-selenium-java
 ```
 
 ### Correr todos los tests
