@@ -25,7 +25,7 @@ Cubre los fundamentos y buenas prácticas del testing automatizado aplicadas a s
 ## 🗂️ Estructura del proyecto
 
 ```
-selenium-test/
+selenium-java-automation-framework/
 ├── pom.xml
 └── src/
     └── test/
@@ -66,8 +66,8 @@ selenium-test/
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/JoshuaSMC/selenium-test.git
-cd selenium-test
+git clone https://github.com/JoshuaSMC/selenium-java-automation-framework.git
+cd selenium-java-automation-framework
 ```
 
 ### Correr todos los tests
